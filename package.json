@@ -1,0 +1,22 @@
+{
+  "name": "tax-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGBailey/taxCalculator.git"
+  },
+  "author": "Conrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CGBailey/taxCalculator/issues"
+  },
+  "homepage": "https://github.com/CGBailey/taxCalculator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
